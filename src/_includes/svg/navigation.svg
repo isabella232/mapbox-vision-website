@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 147.66 56.88">
-  <polyline class="stroke" points="0.5 56.88 0.5 22.6 35.56 22.6"/>
-  <polyline class="stroke" points="23.92 9.31 37.21 22.6 23.92 35.89"/>
-  <polyline class="stroke" points="147.4 0.49 49.21 22.6 147.29 43.98"/>
-  <line class="stroke" x1="102.33" y1="22.6" x2="120.02" y2="22.6"/>
-  <line class="stroke" x1="129.97" y1="22.6" x2="147.66" y2="22.6"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 147.66 56.88"><polyline points=".5 56.88 .5 22.6 35.56 22.6" class="stroke"/><polyline points="23.92 9.31 37.21 22.6 23.92 35.89" class="stroke"/><polyline points="147.4 .49 49.21 22.6 147.29 43.98" class="stroke"/><line x1="102.33" x2="120.02" y1="22.6" y2="22.6" class="stroke"/><line x1="129.97" x2="147.66" y1="22.6" y2="22.6" class="stroke"/></svg>
