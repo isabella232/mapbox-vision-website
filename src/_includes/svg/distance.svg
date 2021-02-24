@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 147.99 30.4">
-<rect class="stroke" x="0.5" y="0.5" width="146.99" height="29.4"/>
-<line class="stroke" x1="10.72" y1="15.98" x2="10.72" y2="29.98"/>
-<line class="stroke" x1="24.37" y1="15.98" x2="24.37" y2="29.98"/>
-<line class="stroke" x1="38.02" y1="15.98" x2="38.02" y2="29.98"/>
-<line class="stroke" x1="65.31" y1="15.98" x2="65.31" y2="29.98"/>
-<line class="stroke" x1="78.96" y1="15.98" x2="78.96" y2="29.98"/>
-<line class="stroke" x1="51.67" y1="8.98" x2="51.67" y2="29.98"/>
-<line class="stroke" x1="92.57" y1="15.98" x2="92.57" y2="29.98"/>
-<line class="stroke" x1="118.96" y1="15.98" x2="118.96" y2="29.98"/>
-<line class="stroke" x1="132.57" y1="15.98" x2="132.57" y2="29.98"/>
-<line class="stroke" x1="106.22" y1="8.98" x2="106.22" y2="29.98"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 147.99 30.4"><rect width="146.99" height="29.4" x=".5" y=".5" class="stroke"/><line x1="10.72" x2="10.72" y1="15.98" y2="29.98" class="stroke"/><line x1="24.37" x2="24.37" y1="15.98" y2="29.98" class="stroke"/><line x1="38.02" x2="38.02" y1="15.98" y2="29.98" class="stroke"/><line x1="65.31" x2="65.31" y1="15.98" y2="29.98" class="stroke"/><line x1="78.96" x2="78.96" y1="15.98" y2="29.98" class="stroke"/><line x1="51.67" x2="51.67" y1="8.98" y2="29.98" class="stroke"/><line x1="92.57" x2="92.57" y1="15.98" y2="29.98" class="stroke"/><line x1="118.96" x2="118.96" y1="15.98" y2="29.98" class="stroke"/><line x1="132.57" x2="132.57" y1="15.98" y2="29.98" class="stroke"/><line x1="106.22" x2="106.22" y1="8.98" y2="29.98" class="stroke"/></svg>
